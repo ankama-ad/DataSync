@@ -1,0 +1,28 @@
+{
+  "coworker": [
+    {
+      "CoworkerCode": "177",
+      "FirstName": "David",
+      "LastName": "PrXXX",
+      "UserID": "@DAVIPRI",
+      "EmailAddress": "david.prior@cdw.com",
+      "CoworkerGLDepartmentCode": "7201",
+      "ManagerCoworkerCode": "6708",
+      "CoworkerTitleDescription": "Accounts Receivable Auditor"
+
+    },
+    {
+      "CoworkerCode": "305",
+      "FirstName": "Brent",
+      "LastName": "GrXXX",
+      "UserID": "BRENGRA",
+      "EmailAddress": "brent.grablachoff@cdw.com",
+      "CoworkerGLDepartmentCode": "9",
+      "ManagerCoworkerCode": "381",
+      "CoworkerTitleDescription": "Website Integration Specialist"
+
+    }
+  ]
+}
+  
+
